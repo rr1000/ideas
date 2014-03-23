@@ -40,13 +40,15 @@ A cable network that allows people to create tv show playlists commercial free. 
 
 ###Truly Commercial Free Cable
 
-A premium cable service that is 100% commercial free. 
+A premium cable service that is 100% commercial free.
 
 **Next step**: Research how netflix locked down content providers. The key is getting sports on board.
 
+***
+
 ###Salary data aggreagator
 
-Collect insights to companies like glassdoor but focus on scientific data. Graphs and shit. 
+Collect insights to companies like glassdoor but focus on scientific data. Graphs and shit.
 
 **Next step**: Look into what tech employees want out of a product.
 
@@ -57,3 +59,11 @@ Collect insights to companies like glassdoor but focus on scientific data. Graph
 Simple job board that includes salaries and remote work. Part time and freelance. Also include interviews with the companies.
 
 **Next step**: See how open startups and companies are to doing interviews (videos) and posting them online
+
+***
+
+###Help health clinics integrate new technology
+
+Consult with doctors offices, hospitals, etc. to help them ditch paper work. The healthcare industry in general is very resistant to new technology. Let's change that.
+
+**Next step**: Interview doctors offices and secretaries to see how you can automate their workflow.
