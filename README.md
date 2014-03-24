@@ -67,3 +67,11 @@ Simple job board that includes salaries and remote work. Part time and freelance
 Consult with doctors offices, hospitals, etc. to help them ditch paper work. The healthcare industry in general is very resistant to new technology. Let's change that.
 
 **Next step**: Interview doctors offices and secretaries to see how you can automate their workflow.
+
+***
+
+###Voice Documentation System for Clinicians
+
+Clinicians (doctors, therapists, etc.) deal with pages and pages of documentation - both physical and digital. They spend as much if not more time on documentation than they spend with patients. This solution would involve a clinician wearing a device that records their interactions with a patient. Need to make a specific note? The technology would have specific voice commands for doing so. All of this would integrate with various apps for syncing.
+
+**Next steps**: Interview clinicians to find their pain points.
