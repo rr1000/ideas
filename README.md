@@ -1,3 +1,19 @@
+###Conversational UI as a Service
+
+The technology of Wolfram Alpha packaged as a service for enterprise.
+
+**Next Steps**: Look into IBM's Watson API
+
+***
+
+###Leashes
+
+An e-commerce site dedicated to selling high quality leashes for pets (cats, dogs, goats, lizards, etc)
+
+**Next Steps**: Locate a manufacturer and prototype some custom designs.
+
+***
+
 ###Remote Working Blog
 
 A blog about remote work with both free and priced content.
@@ -30,7 +46,7 @@ Articles and tips on how to get the cheapest data plans, free movies and tv, lif
 
 ***
 
-###Spotify for cable
+###Spotify For Cable
 
 A cable network that allows people to create tv show playlists commercial free. P2P Tv.
 
@@ -46,7 +62,7 @@ A premium cable service that is 100% commercial free.
 
 ***
 
-###Salary data aggreagator
+###Salary Data Aggregation
 
 Collect insights to companies like glassdoor but focus on scientific data. Graphs and shit.
 
@@ -62,7 +78,7 @@ Simple job board that includes salaries and remote work. Part time and freelance
 
 ***
 
-###Help health clinics integrate new technology
+###Help Health Clinics Integrate New Technology
 
 Consult with doctors offices, hospitals, etc. to help them ditch paper work. The healthcare industry in general is very resistant to new technology. Let's change that.
 
