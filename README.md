@@ -1,93 +1,43 @@
-###Conversational UI as a Service
+This is a listing of ideas for business and side projects. The majority of them are focused on technology and software.
 
-The technology of Wolfram Alpha packaged as a service for enterprise.
+### Conversational UI as a Service
 
-**Next Steps**: Look into IBM's Watson API
-
-***
-
-###Leashes
-
-An e-commerce site dedicated to selling high quality leashes for pets (cats, dogs, goats, lizards, etc)
-
-**Next Steps**: Locate a manufacturer and prototype some custom designs.
+Create an API that can be licensed by companies in order to integrate conversational artificial intelligence into their products. This would be similar to phone services incorporating automated operators into phone systems, but more vague and applicable to a wider range of markets.
 
 ***
 
-###Remote Working Blog
+### Remote Working Blog
 
-A blog about remote work with both free and priced content.
-
-**Next step**: Research google adwords and calculate the size of the market. Also look into the cost of writers for blog posts.
+A blog dedicated to writing about working remotely. The challenges people face, the future of working environments, etc.
 
 ***
 
-###UX Casts
+### Design Casts
 
-Teach people Visual Design and User Experience. Think about how to do it remotely and also in a physical location, or how you can tie the both together to create something better.
-
-**Next step**: Talk to people, get out there. [Doc here](https://docs.google.com/document/d/1HZO7lmbVZGOSXrI6ZRIu3E4WVYVJFOOSFO7760JA3Wc/edit).
+Teach people product, visual, and experience design through a series of screen casts. What would separate this from the many options out there would be length, quality and consistency of content.
 
 ***
 
-###Coffee Brewing Tutorials
+### Coffee Brewing Tutorials
 
-Different styles and how to brew them with screen casts and articles. Possibly a store.
-
-**Next step**: Research market and google trends.
+A youtube channel dedicated to learning about coffee and coffee brewing. Could take tours of coffee shops and interview baristas and owners to learn about their brewing process.
 
 ***
 
-###Freedom Blog (lifehack blog?)
+### Spotify For Television
 
-Articles and tips on how to get the cheapest data plans, free movies and tv, lifehacks, etc.
-
-**Next step**: Research what's missing from lifehacker.com and makeuseof.com
+A product that allows individuals to create channels (playlists) of shows from different networks. The ability to source content from Netflix, Hulu, etc. This could also work for movies.
 
 ***
 
-###Spotify For Cable
+### Salary Data Aggregation
 
-A cable network that allows people to create tv show playlists commercial free. P2P Tv.
-
-**Next step**: Research spotify's business model and find someone who knows the industry.
+Why is Glassdoor so inaccurate? Likely because it is self reported. This tool could aggregate statistics from a variety of sources and give users tips on how to ask for a raise, career path advice, etc.
 
 ***
 
-###Truly Commercial Free Cable
+### Consulting Services For Helping Clinics Integrate New Technology
 
-A premium cable service that is 100% commercial free.
-
-**Next step**: Research how netflix locked down content providers. The key is getting sports on board.
+Consult with clinics, health systems, etc. to help them ditch paper work.
 
 ***
-
-###Salary Data Aggregation
-
-Collect insights to companies like glassdoor but focus on scientific data. Graphs and shit.
-
-**Next step**: Look into what tech employees want out of a product.
-
-***
-
-###Job Board
-
-Simple job board that includes salaries and remote work. Part time and freelance. Also include interviews with the companies.
-
-**Next step**: See how open startups and companies are to doing interviews (videos) and posting them online
-
-***
-
-###Help Health Clinics Integrate New Technology
-
-Consult with doctors offices, hospitals, etc. to help them ditch paper work. The healthcare industry in general is very resistant to new technology. Let's change that.
-
-**Next step**: Interview doctors offices and secretaries to see how you can automate their workflow.
-
-***
-
-###Voice Documentation System for Clinicians
-
-Clinicians (doctors, therapists, etc.) deal with pages and pages of documentation - both physical and digital. They spend as much if not more time on documentation than they spend with patients. This solution would involve a clinician wearing a device that records their interactions with a patient. Need to make a specific note? The technology would have specific voice commands for doing so. All of this would integrate with various apps for syncing.
-
-**Next steps**: Interview clinicians to find their pain points.
